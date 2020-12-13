@@ -90,7 +90,7 @@ Step 6 — Commands to install Nginx on Ubuntu
 
 ## Facing Any Problem or need any Help:grey_question:
 Write me in [issues]((https://github.com/geekyamitesh) section. I will try solve your issue within 10-12 hours.
-</br>***Keep Developing and Destroying.*** :wink:
+</br>***Keep Developing and Destroying.*** 
 
  
 
